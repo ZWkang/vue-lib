@@ -1,9 +1,10 @@
 {
+  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"],
   "editor.formatOnSave": true,
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
 }
